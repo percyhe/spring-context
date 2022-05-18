@@ -1,0 +1,19 @@
+2022-05-18 18:09:19,709 [INFO] MailService(26) - Hi, Bob! You are logged in at 2022-05-18T18:09:19.6941752+08:00[Asia/Shanghai]
+2022-05-18 18:16:44,047 [INFO] MailService(30) - Hi, Bob! You are logged in at 2022-05-18T18:16:44.0328545
+2022-05-18 18:17:38,720 [INFO] MailService(30) - Hi, Bob! You are logged in at 2022-05-18 06:17:38
+2022-05-18 18:18:12,254 [INFO] MailService(30) - Hi, Bob! You are logged in at 2022-05-18 18:18:12
+2022-05-18 18:19:55,287 [INFO] MailService(29) - Hi, Bob! You are logged in at 2022-05-18 18:19:55
+2022-05-18 18:19:55,310 [INFO] MailService(35) - Welcome, percy!
+2022-05-18 19:25:33,466 [INFO] HikariDataSource(110) - HikariPool-1 - Starting...
+2022-05-18 19:25:33,896 [INFO] HikariDataSource(123) - HikariPool-1 - Start completed.
+2022-05-18 19:25:33,948 [INFO] MailService(29) - Hi, Bob! You are logged in at 2022-05-18 19:25:33
+2022-05-18 19:27:35,146 [INFO] HikariDataSource(110) - HikariPool-1 - Starting...
+2022-05-18 19:27:35,507 [INFO] HikariDataSource(123) - HikariPool-1 - Start completed.
+2022-05-18 19:27:35,566 [INFO] MailService(29) - Hi, Bob! You are logged in at 2022-05-18 19:27:35
+2022-05-18 19:28:05,908 [INFO] HikariDataSource(110) - HikariPool-1 - Starting...
+2022-05-18 19:28:06,273 [INFO] HikariDataSource(123) - HikariPool-1 - Start completed.
+2022-05-18 19:28:06,326 [INFO] MailService(29) - Hi, Bob! You are logged in at 2022-05-18 19:28:06
+2022-05-18 19:28:38,707 [INFO] HikariDataSource(110) - HikariPool-1 - Starting...
+2022-05-18 19:28:39,063 [INFO] HikariDataSource(123) - HikariPool-1 - Start completed.
+2022-05-18 19:28:39,116 [INFO] MailService(29) - Hi, Bob! You are logged in at 2022-05-18 19:28:39
+2022-05-18 19:28:39,172 [INFO] MailService(35) - Welcome, percy2!
