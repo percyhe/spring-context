@@ -1,24 +1,37 @@
 package demo.service;
 
+import com.zaxxer.hikari.HikariConfig;
+import com.zaxxer.hikari.HikariDataSource;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Bean;
+import org.springframework.stereotype.Component;
+
 import javax.sql.DataSource;
+import javax.xml.crypto.Data;
 import java.sql.*;
 import java.util.List;
 
 import java.util.ArrayList;
 
+@Component
 public class UserService {
 
+    @Autowired
     private MailService mailService;
 
+    @Autowired
     private DataSource dataSource;
 
-    public void setMailService(MailService mailService) {
+
+
+    public void setMailService(@Autowired MailService mailService) {
+
         this.mailService = mailService;
     }
 
-    public void setDataSource(DataSource dataSource) {
+  /*  public void setDataSource(@Autowired DataSource dataSource) {
         this.dataSource = dataSource;
-    }
+    }*/
 
     private List<User> users = new ArrayList<>(
             List.of(

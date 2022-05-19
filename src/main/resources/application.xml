@@ -4,7 +4,7 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
         https://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="mailService" class="demo.service.MailService"/>
+<!--    <bean id="mailService" class="demo.service.MailService"/>
 
     <bean id="userService" class="demo.service.UserService">
         <property name="mailService" ref="mailService"/>
@@ -16,6 +16,6 @@
         <property name="password" value="percy"/>
         <property name="maximumPoolSize" value="10"/>
         <property name="autoCommit" value="true"/>
-    </bean>
+    </bean>-->
 
 </beans>

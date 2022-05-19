@@ -7,7 +7,9 @@ import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;
 
 import org.slf4j.Logger;
+import org.springframework.stereotype.Component;
 
+@Component
 public class MailService {
     private ZoneId zoneId = ZoneId.systemDefault();
     private final Logger logger = LoggerFactory.getLogger(getClass());
