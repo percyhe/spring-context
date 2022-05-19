@@ -2,5 +2,6 @@ git pull/.idea
 /log
 /target
 /.idea
+/.idea/*
 .env
 
